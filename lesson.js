@@ -42,3 +42,7 @@ let ffff = prompt('как тебя зовут?');
     
   }
 
+
+// Hello Madina
+// Hello Zubair
+
